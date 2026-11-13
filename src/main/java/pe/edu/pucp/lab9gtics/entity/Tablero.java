@@ -9,7 +9,7 @@ public class Tablero {
 
     private String tamañoDeltablero;
 
-    private Byte
+    private Byte imagen;
 
 
 }
