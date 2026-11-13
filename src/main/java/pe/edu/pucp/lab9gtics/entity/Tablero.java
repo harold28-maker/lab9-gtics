@@ -11,5 +11,10 @@ public class Tablero {
 
     private Byte imagen;
 
+    private String mensaje;
+
+    private int movimiento;
+
+
 
 }
